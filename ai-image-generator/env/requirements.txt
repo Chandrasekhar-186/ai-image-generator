@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers[torch]
+transformers
+accelerate
+safetensors
+sentencepiece
+numpy
+Pillow
+streamlit
+tqdm
